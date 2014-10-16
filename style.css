@@ -12,6 +12,10 @@ img {
 .title {
     font-weight: bold;
 }
+a {
+    text-decoration: none;
+    color: black;
+}
 
 /*----- Tabs -----*/
 .tabs {
@@ -43,7 +47,7 @@ img {
             font-size:16px;
             font-weight:600;
             color:white;
-            transition:all linear 0.15s;
+            /*transition:all linear 0.15s;*/
             text-decoration:none;
         }
 
